@@ -4,6 +4,7 @@ import Footer from './Footer';
 import 'bootstrap/dist/css/bootstrap.css';
 
 
+
 // Sample product data
 // const sampleProducts = [
 //   {
